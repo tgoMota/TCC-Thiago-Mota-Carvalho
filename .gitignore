@@ -1,3 +1,5 @@
 *.ipynb_checkpoints
 *.npy
 Resultado GAN
+*.mat
+Imagens_n_Segmentadas
